@@ -57,6 +57,3 @@ recommend(movie_name)
 ```
 
 
-### Collaborated by : [Ankit Nainwal](https://github.com/nano-bot01)
-
-### Please ⭐⭐⭐⭐
